@@ -21,6 +21,15 @@
 
 *Please include a reference to the code pull request that relates to this document pull request:*
 
+<h5>Adapters</h5>
+
+Did you include: 
+
+- [ ] a title? 
+- [ ] if the adapter is for PBJS or PBS?
+- [ ] a table for the adapter parameters?
+- [ ] an example? (Not required)
+
 <h4>Doc Improvements</h4>
 
 *Please include a link to the current page on [Prebid](docs.prebid.org):*
