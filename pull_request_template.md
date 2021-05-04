@@ -34,6 +34,8 @@ Did you include:
 
 *Please include a link to the current page on [Prebid](docs.prebid.org):*
 
+If the improvement is for the nav bar please indicate in the comments why the change is needed. 
+
 
 <h2>Comments</h2>
 
