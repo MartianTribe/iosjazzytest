@@ -4,8 +4,9 @@
 
 <h2>Contact Info</h2>
 
-**Company Name:**  
-**Contact (Email):**  
+**Company Name:**. 
+**Contact (email)**:
+
 
 <h2>Purpose</h2>
 
