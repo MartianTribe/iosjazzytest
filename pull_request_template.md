@@ -6,9 +6,6 @@
 
 **Company Name:**. 
 
-**Contact (email)**:
-
-
 <h2>Purpose</h2>
 
 *Please select the purpose of this pull request from the options below (change [ ] to [x]:*
@@ -29,6 +26,15 @@ Did you include:
 - [ ] if the adapter is for PBJS or PBS?
 - [ ] a table for the adapter parameters?
 - [ ] an example? (Not required)
+
+---
+**NOTE**
+
+The title and if the adapter is built for PBJS or PBS is set in the header entities.
+
+---
+
+If you have questions on submitting your adapter revidew our documentation [here](https://docs.prebid.org/dev-docs/bidder-adaptor.html#submitting-your-adapter)
 
 <h4>Doc Improvements</h4>
 
