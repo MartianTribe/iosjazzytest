@@ -5,6 +5,7 @@
 <h2>Contact Info</h2>
 
 **Company Name:**. 
+
 **Contact (email)**:
 
 
