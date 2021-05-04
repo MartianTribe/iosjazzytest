@@ -11,7 +11,7 @@
 
 <h2>Purpose</h2>
 
-*Please select the purpose of this pull request from the options below:*
+*Please select the purpose of this pull request from the options below (change [ ] to [x]:*
 
 - [ ] Code related documentation (including new adapters)
 - [ ] Doc improvements
