@@ -28,7 +28,7 @@ Did you include:
 - [ ] an example? (Not required)
 
 ---
-**NOTE**
+**NOTE:**
 
 The title and if the adapter is built for PBJS or PBS is set in the header entities.
 
